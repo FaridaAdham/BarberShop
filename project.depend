@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1430231079 source:c:\users\blu-ray\desktop\project\queue.c
+	"queue.h"
+
+1430231075 c:\users\blu-ray\desktop\project\queue.h
+
+1430524502 source:c:\users\blu-ray\desktop\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"queue.h"
+
+1429723881 source:c:\users\blu-ray\desktop\project\functions.c
+	"functions.h"
+
+1429723569 c:\users\blu-ray\desktop\project\functions.h
+
